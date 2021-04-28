@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:grey;
+}
+.header{
+    background-color: gold;
+    text-align: center;
+    padding:2%;
+}
+.container{
+    display:flex;
+    position:relative;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    flex:1;
+    margin:1%;
+    padding:1%;
+}
+.alpha{
+    border:2px solid black;
+    padding:3%;
+    text-align: center;
+    border-radius:5%;
+    margin:2%;
+    width:16%;
+}
+.alpha p{
+    color:gold;
+}
+.a:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+    transform:scale(1);
+}
+.s:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.d:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.f:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.g:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.h:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.j:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.k:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
+.l:hover{
+    box-shadow: 2px 2px 2px 2px gold;
+}
