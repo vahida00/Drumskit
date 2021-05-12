@@ -29,32 +29,8 @@ body{
 }
 .alpha p{
     color:gold;
-}
-.a:hover{
+}    
+.alpha:hover{
     box-shadow: 2px 2px 2px 2px gold;
-    transform:scale(1);
-}
-.s:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.d:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.f:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.g:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.h:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.j:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.k:hover{
-    box-shadow: 2px 2px 2px 2px gold;
-}
-.l:hover{
-    box-shadow: 2px 2px 2px 2px gold;
+    transition: gold 2s linear;
 }
